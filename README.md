@@ -37,3 +37,5 @@ Since we do not have labels for the test set we create a test set from the train
 
 - Convolutional Neural Network Architechture performs exceptionally well on the dataset. The Architecture is inspired from LeNet-5 architecture. It has 2 Convolution Layers (filter size - 3x3), 2 Fully Connected layers (128, 64 nodes) and Dropout Regularization <br>
 
+**Kaggle Submission Result:** Accuracy = 0.989 (Top 40 percentile) on unlabeled dataset
+
